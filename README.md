@@ -1,5 +1,14 @@
 # roomie
-A simple app helps millions connect with their future roommates.
+simple, easy, instant 
+
+No more looking for a needle in the Craigslist, Facebook, and Wechat ocean.
+A simple web app helps millions connect with their future roommates.
+
+No more spammers and scammers. 
+We are using extremely secure third party (via email, phone, social) to authenticate users.
+
+No more middle man, no more emailing, texting, calling back and forth.
+We offer in app instant direct chat with your future roommate.
 
 ## team
 - Jonathan Lee
@@ -16,15 +25,29 @@ A simple app helps millions connect with their future roommates.
 
 ## Usage
 
+  - Server Routes:
+
+  - Database:
+
+  - APIs:
+
+  - Major Components:
 
 ## Requirements
+all this is just temp
 
 - React
 - Node 
 - MySQL
 - Babel
 - Webpack
+- Redux
 - Authentication:
+	- Google
+	- Facebook
+	- School edu email address
+	- phone number
+	- WeChat
 
 ## Development
 
@@ -42,4 +65,18 @@ npm install
 View the project roadmap [ROADMAP.md](ROADMAP.md)
 
 ## Contributing
+
+## Interesting and helpful articles
+
+- 3rd party authentications
+	- [No more username/passwords: Just use a 3rd party for authentication.](https://medium.com/@sellarafaeli/no-more-username-passwords-just-use-a-3rd-party-for-authentication-59b12db092a4).
+
+
+
+
+
+
+
+
+
 
