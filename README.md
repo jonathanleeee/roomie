@@ -19,12 +19,23 @@ A simple app helps millions connect with their future roommates.
 
 ## Requirements
 
+- React
+- Node 
+- MySQL
+- Babel
+- Webpack
+- Authentication:
 
 ## Development
 
 
 ### Installing Dependencies
 
+From within the root directory:
+
+```sh
+npm install
+```
 
 ### Roadmap
 
