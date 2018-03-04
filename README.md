@@ -12,6 +12,7 @@ We offer in app instant direct chat with your future roommate.
 
 ## team
 - Jonathan Lee
+- Peter Cheung
 
 ## Table of Contents
 
