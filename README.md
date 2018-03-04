@@ -10,7 +10,7 @@ We are using extremely secure third party (via email, phone, social) to authenti
 No more middle man, no more emailing, texting, calling back and forth.
 We offer in app instant direct chat with your future roommate.
 
-## team
+## Team
 - Jonathan Lee
 - Peter Cheung
 
@@ -71,7 +71,8 @@ View the project roadmap [ROADMAP.md](ROADMAP.md)
 
 - 3rd party authentications
 	- [No more username/passwords: Just use a 3rd party for authentication.](https://medium.com/@sellarafaeli/no-more-username-passwords-just-use-a-3rd-party-for-authentication-59b12db092a4)
-	- [GitHub: Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
+- GitHub stuff
+	[GitHub: Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
 
 
 
