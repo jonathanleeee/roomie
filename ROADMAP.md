@@ -2,6 +2,7 @@
 
 Find and chat with your next roommate instantly without worrying about spam, fake identity.
 
+
 ## Must Have (MVP)
 
 	1. Two Major components
